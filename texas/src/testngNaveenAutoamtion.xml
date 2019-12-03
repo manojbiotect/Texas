@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Testing Session Test Automation Suite">
+	<test name="Differenet Feature tesing feautre test">
+
+		<classes>
+			<class name="day2.Project1" />
+			<class name="NaveenAutomationTestNG.ExceptionTimeOutTest" />
+			<class name="NaveenAutomationTestNG.InvocationCountTest" />
+			<class name="NaveenAutomationTestNG.TestNGBasicFirstTutorial" />
+			<class name="NaveenAutomationTestNG.TestNgFeatures" />
+			<class name="NaveenAutomationTestNG.TestNGFrameworkGoogle" />
+
+
+		</classes>
+
+	</test>
+
+</suite>

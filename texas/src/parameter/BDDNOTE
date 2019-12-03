@@ -1,0 +1,34 @@
+Cucumber-BDD Framework( Behavior Driven Development) based on TDD
+  - use gherkin language , where we write test cases 
+    first and then we write code.
+  - BDD bridges the gap between stakeholders and the
+     development team (QAs and developers).
+   - In BDD we create feature files and the test cases in these files 
+      are written using Gherkin language.
+   - Cucumber -JVM/Ruby Behavior Driven Development
+   - Jebhave - Java behavir
+      Keywords or syntax used in Gherkins:
+      
+      component:
+      1. feature file - login.feature file -gerkin keyword, keyword
+                     Given , when,then, as but, create scenario, 
+                     scenario outline
+      2. Step Definition file - use Selenium + Java + Annotations
+      3. Test runner - use Junit, to run your feature.
+                      - to generate the output/report
+                      
+   ..............................................   
+ - Feature
+ - A feature file has only one “Feature”
+ - Background
+ - Scenario
+ - Given
+ - When
+ - Then
+ - And
+ - But
+ - Scenario outline
+ - Examples
+ - Scenario Templates
+
+    

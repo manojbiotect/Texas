@@ -1,0 +1,14 @@
+Parameter Passing Using Testng.xml
+- how to pass parameter from tesing.xml to test cases
+- what is @Parameters annotation in TestNG
+- How to configure tesing.xml file with <Parameter> tag
+-Run your test cases with tesing.xml
+
+//enviormental variable: 
+
+data driven: 
+  a. excel fiel - test data
+  b. properties file - envrioment variable, object repository, test data
+  c. testing.xml- env variaiables
+  d. json files
+  e. DB - database

@@ -1,0 +1,15 @@
+Data Driven Framework with TestNg- Data provider-(@dataprovider annotation
+
+application - page-different fields- fill all these fields with different test data.
+
+Test case (login test- username,password) - data 1(un,pwd), 2, 3, 4,
+@Test(dataprovider="getData")
+
+method-
+
+@dataprovider
+ getDeta(){
+}
+excel-testdata.xlsx
+
+ data 1(un,pwd), 2, 3, 4,
